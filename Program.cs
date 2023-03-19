@@ -10,9 +10,8 @@
         /// </summary>
         static void Main(string[] args)
         {
-            int[] numbers = drawNumbers();
             int[] voucher = guessNumbers();
-            
+            int[] numbers = drawNumbers();
             checkNumbers(voucher, numbers);
         }
 
