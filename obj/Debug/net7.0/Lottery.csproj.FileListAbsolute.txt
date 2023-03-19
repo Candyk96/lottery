@@ -1,0 +1,15 @@
+D:\Lottery\bin\Debug\net7.0\Lottery.exe
+D:\Lottery\bin\Debug\net7.0\Lottery.deps.json
+D:\Lottery\bin\Debug\net7.0\Lottery.runtimeconfig.json
+D:\Lottery\bin\Debug\net7.0\Lottery.dll
+D:\Lottery\bin\Debug\net7.0\Lottery.pdb
+D:\Lottery\obj\Debug\net7.0\Lottery.csproj.AssemblyReference.cache
+D:\Lottery\obj\Debug\net7.0\Lottery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lottery\obj\Debug\net7.0\Lottery.AssemblyInfoInputs.cache
+D:\Lottery\obj\Debug\net7.0\Lottery.AssemblyInfo.cs
+D:\Lottery\obj\Debug\net7.0\Lottery.csproj.CoreCompileInputs.cache
+D:\Lottery\obj\Debug\net7.0\Lottery.dll
+D:\Lottery\obj\Debug\net7.0\refint\Lottery.dll
+D:\Lottery\obj\Debug\net7.0\Lottery.pdb
+D:\Lottery\obj\Debug\net7.0\Lottery.genruntimeconfig.cache
+D:\Lottery\obj\Debug\net7.0\ref\Lottery.dll
